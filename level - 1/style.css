@@ -1,0 +1,93 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+}
+#logo-div{
+    width: 100%;
+    min-height: 50px;
+    background-color: rgb(233, 193, 193);
+    padding-left: 2%;
+    line-height: 50px;
+    margin-top:10px;
+    margin-bottom: 10px;
+}
+#nav-div{
+    width: 100%;
+    min-height: 30px;
+    background-color: rgb(102, 138, 138);
+    text-align: center;
+    line-height: 30px;
+    margin-bottom: 10px;
+}
+#header-banner-div{
+    width: 100%;
+    min-height: 100px;
+    background-color: rgb(184, 123, 241);
+    text-align: center;
+    line-height: 100px;
+    margin-bottom: 10px;
+}
+#main-div{
+    width: 100%;
+    margin-bottom: 10px;
+}
+#sidebar-div{
+    width: 20%;
+    min-height: 350px;
+    background-color: rgb(126, 169, 172);
+    float: left;
+    text-align: center;
+    line-height: 350px;
+}
+#bodyarea-div{
+    width: 75%;
+    min-height: 350px;
+    background-color: rgb(170, 132, 86);
+    float: right;
+    text-align: center;
+    line-height: 350px;
+}
+.clearfix::after{
+    content: '';
+    display: block;
+    clear: both;
+}
+#footer-div{
+    width: 100%;
+    min-height: 50px;
+    background-color: rgb(108, 108, 235);
+    text-align: center;
+    line-height: 50px;
+}
+#wrapper-deiv{
+    width: 98%;
+    /* background-color: rgb(221, 221, 71); */
+    margin: auto;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
